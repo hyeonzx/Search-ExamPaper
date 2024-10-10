@@ -630,10 +630,10 @@
           <mxGeometry x="920" y="400" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-0" value="CommonCondition" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;hachureGap=4;fontFamily=D2Coding;swimlaneLine=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="1470" width="200" height="240" as="geometry" />
+          <mxGeometry x="780" y="1470" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-0">
-          <mxGeometry y="30" width="200" height="30" as="geometry" />
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-2" value="PK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-1">
           <mxGeometry width="40" height="30" as="geometry">
@@ -641,25 +641,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-3" value="Id" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-1">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-0">
-          <mxGeometry y="60" width="200" height="30" as="geometry" />
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-39" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-38">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-40" value="&lt;span style=&quot;color: rgb(24, 46, 62); text-align: center; text-wrap: nowrap;&quot;&gt;IndividualConditionId&lt;/span&gt;" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-38">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-40" value="&lt;span style=&quot;color: rgb(24, 46, 62); text-align: center; text-wrap: nowrap;&quot;&gt;DetectPaperSearchResultId&lt;/span&gt;" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-38">
+          <mxGeometry x="40" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-0">
-          <mxGeometry y="90" width="200" height="30" as="geometry" />
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-11" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-10">
           <mxGeometry width="40" height="30" as="geometry">
@@ -667,12 +667,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-12" value="PaperYearStart" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-10">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-0">
-          <mxGeometry y="120" width="200" height="30" as="geometry" />
+          <mxGeometry y="120" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-45" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-44">
           <mxGeometry width="40" height="30" as="geometry">
@@ -680,12 +680,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-46" value="PaperYearEnd" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-44">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-0">
-          <mxGeometry y="150" width="200" height="30" as="geometry" />
+          <mxGeometry y="150" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-42" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-41">
           <mxGeometry width="40" height="30" as="geometry">
@@ -693,12 +693,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-43" value="Regions" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-41">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-0">
-          <mxGeometry y="180" width="200" height="30" as="geometry" />
+          <mxGeometry y="180" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-14" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-13">
           <mxGeometry width="40" height="30" as="geometry">
@@ -706,12 +706,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-15" value="GradeCode" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-13">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-0">
-          <mxGeometry y="210" width="200" height="30" as="geometry" />
+          <mxGeometry y="210" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-17" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-16">
           <mxGeometry width="40" height="30" as="geometry">
@@ -719,15 +719,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-18" value="SemesterCode" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-16">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BQAWFkzMRwZxKpppZyMn-47" target="BQAWFkzMRwZxKpppZyMn-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-47" value="문제지검색결과" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;hachureGap=4;fontFamily=D2Coding;swimlaneLine=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="1120" width="200" height="240" as="geometry" />
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-47" value="DetectPaperSearchResult" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;hachureGap=4;fontFamily=D2Coding;swimlaneLine=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="1120" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-47">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -755,21 +755,8 @@
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-47">
-          <mxGeometry y="90" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-55" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-54">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-56" value="&lt;span style=&quot;color: rgb(24, 46, 62); text-align: center; text-wrap: nowrap;&quot;&gt;CommonConditionId&lt;/span&gt;" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-54">
-          <mxGeometry x="30" width="170" height="30" as="geometry">
-            <mxRectangle width="170" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-47">
-          <mxGeometry y="120" width="200" height="30" as="geometry" />
+          <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-58" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-57">
           <mxGeometry width="30" height="30" as="geometry">
@@ -782,7 +769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-47">
-          <mxGeometry y="150" width="200" height="30" as="geometry" />
+          <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-61" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-60">
           <mxGeometry width="30" height="30" as="geometry">
@@ -795,7 +782,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-47">
-          <mxGeometry y="180" width="200" height="30" as="geometry" />
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-64" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-63">
           <mxGeometry width="30" height="30" as="geometry">
@@ -808,7 +795,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-47">
-          <mxGeometry y="210" width="200" height="30" as="geometry" />
+          <mxGeometry y="180" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-67" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-66">
           <mxGeometry width="30" height="30" as="geometry">
@@ -827,7 +814,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-69" value="IndividualCondition" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;hachureGap=4;fontFamily=D2Coding;swimlaneLine=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1050" y="1470" width="160" height="270" as="geometry" />
+          <mxGeometry x="1080" y="1470" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -842,21 +829,8 @@
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-226" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-227" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-226">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-228" value="&lt;span style=&quot;color: rgb(24, 46, 62); text-align: center; text-wrap: nowrap;&quot;&gt;DetailCondition&lt;/span&gt;Id" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-226">
-          <mxGeometry x="40" width="120" height="30" as="geometry">
-            <mxRectangle width="120" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-229" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
-          <mxGeometry y="90" width="160" height="30" as="geometry" />
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-230" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-229">
           <mxGeometry width="40" height="30" as="geometry">
@@ -869,7 +843,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-141" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
-          <mxGeometry y="120" width="160" height="30" as="geometry" />
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-142" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-141">
           <mxGeometry width="40" height="30" as="geometry">
@@ -882,7 +856,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-206" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
-          <mxGeometry y="150" width="160" height="30" as="geometry" />
+          <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-207" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-206">
           <mxGeometry width="40" height="30" as="geometry">
@@ -895,7 +869,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-210" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
-          <mxGeometry y="180" width="160" height="30" as="geometry" />
+          <mxGeometry y="150" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-211" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-210">
           <mxGeometry width="40" height="30" as="geometry">
@@ -908,7 +882,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
-          <mxGeometry y="210" width="160" height="30" as="geometry" />
+          <mxGeometry y="180" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-77" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-76">
           <mxGeometry width="40" height="30" as="geometry">
@@ -921,7 +895,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-69">
-          <mxGeometry y="240" width="160" height="30" as="geometry" />
+          <mxGeometry y="210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-80" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-79">
           <mxGeometry width="40" height="30" as="geometry">
@@ -937,7 +911,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-95" value="SourceGroup" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;hachureGap=4;fontFamily=D2Coding;swimlaneLine=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1191" y="1810" width="159" height="210" as="geometry" />
+          <mxGeometry x="1191" y="1870" width="159" height="180" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-166" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-95">
           <mxGeometry y="30" width="159" height="30" as="geometry" />
@@ -965,21 +939,8 @@
             <mxRectangle width="129" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-102" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-95">
-          <mxGeometry y="90" width="159" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-103" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-102">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-104" value="&lt;span style=&quot;color: rgb(24, 46, 62); text-align: center; text-wrap: nowrap;&quot;&gt;DetailSourceGroupId&lt;/span&gt;" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-102">
-          <mxGeometry x="30" width="129" height="30" as="geometry">
-            <mxRectangle width="129" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-105" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-95">
-          <mxGeometry y="120" width="159" height="30" as="geometry" />
+          <mxGeometry y="90" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-106" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-105">
           <mxGeometry width="30" height="30" as="geometry">
@@ -992,7 +953,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-108" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-95">
-          <mxGeometry y="150" width="159" height="30" as="geometry" />
+          <mxGeometry y="120" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-109" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-108">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1005,7 +966,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-111" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-95">
-          <mxGeometry y="180" width="159" height="30" as="geometry" />
+          <mxGeometry y="150" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-112" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-111">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1026,10 +987,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-147" value="DetailCondition" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;hachureGap=4;fontFamily=D2Coding;swimlaneLine=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="861" y="1810" width="159" height="210" as="geometry" />
+          <mxGeometry x="861" y="1880" width="179" height="240" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-148" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-147">
-          <mxGeometry y="30" width="159" height="30" as="geometry" />
+          <mxGeometry y="30" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-149" value="PK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-148">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1037,12 +998,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-150" value="Id" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-148">
-          <mxGeometry x="30" width="129" height="30" as="geometry">
-            <mxRectangle width="129" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="149" height="30" as="geometry">
+            <mxRectangle width="149" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-163" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-147">
-          <mxGeometry y="60" width="159" height="30" as="geometry" />
+          <mxGeometry y="60" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-164" value="PK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-163">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1050,12 +1011,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-165" value="Seq" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-163">
-          <mxGeometry x="30" width="129" height="30" as="geometry">
-            <mxRectangle width="129" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="149" height="30" as="geometry">
+            <mxRectangle width="149" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-283" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-147">
+          <mxGeometry y="90" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-284" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-283">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-285" value="&lt;span style=&quot;color: rgb(24, 46, 62); text-align: center; text-wrap: nowrap;&quot;&gt;IndividualConditionId&lt;/span&gt;" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-283">
+          <mxGeometry x="30" width="149" height="30" as="geometry">
+            <mxRectangle width="149" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-151" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-147">
-          <mxGeometry y="90" width="159" height="30" as="geometry" />
+          <mxGeometry y="120" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-152" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-151">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1063,12 +1037,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-153" value="SourceGroupId" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-151">
-          <mxGeometry x="30" width="129" height="30" as="geometry">
-            <mxRectangle width="129" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="149" height="30" as="geometry">
+            <mxRectangle width="149" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-272" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-147">
-          <mxGeometry y="120" width="159" height="30" as="geometry" />
+          <mxGeometry y="150" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-273" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-272">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1076,12 +1050,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-274" value="QuestionGroupId" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-272">
-          <mxGeometry x="30" width="129" height="30" as="geometry">
-            <mxRectangle width="129" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="149" height="30" as="geometry">
+            <mxRectangle width="149" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-275" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-147">
-          <mxGeometry y="150" width="159" height="30" as="geometry" />
+          <mxGeometry y="180" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-276" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-275">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1089,12 +1063,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-277" value="CellId" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-275">
-          <mxGeometry x="30" width="129" height="30" as="geometry">
-            <mxRectangle width="129" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="149" height="30" as="geometry">
+            <mxRectangle width="149" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-240" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-147">
-          <mxGeometry y="180" width="159" height="30" as="geometry" />
+          <mxGeometry y="210" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-241" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-240">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1102,27 +1076,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-242" value="" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-240">
-          <mxGeometry x="30" width="129" height="30" as="geometry">
-            <mxRectangle width="129" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="149" height="30" as="geometry">
+            <mxRectangle width="149" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-233" value="개별상세조건" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=D2Coding;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="1780" width="100" height="30" as="geometry" />
+          <mxGeometry x="950" y="1850" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-234" value="출처그룹" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1270" y="1780" width="70" height="30" as="geometry" />
+          <mxGeometry x="1280" y="1840" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-235" value="개별조건" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1095" y="1440" width="70" height="30" as="geometry" />
+          <mxGeometry x="1170" y="1440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-236" value="공통조건" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="1440" width="70" height="30" as="geometry" />
+          <mxGeometry x="920" y="1440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-237" value="문제지검색결과" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="925" y="1090" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-249" value="DetailSourceGroup" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;hachureGap=4;fontFamily=D2Coding;swimlaneLine=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1270" y="2060" width="159" height="120" as="geometry" />
+          <mxGeometry x="1260" y="2110" width="159" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-250" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-249">
           <mxGeometry y="30" width="159" height="30" as="geometry" />
@@ -1150,8 +1124,21 @@
             <mxRectangle width="129" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQAWFkzMRwZxKpppZyMn-253" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-249">
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-286" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-249">
           <mxGeometry y="90" width="159" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-287" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-286">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-288" value="&lt;span style=&quot;color: rgb(24, 46, 62); text-align: center; text-wrap: nowrap;&quot;&gt;SourceGroupId&lt;/span&gt;" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-286">
+          <mxGeometry x="30" width="129" height="30" as="geometry">
+            <mxRectangle width="129" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQAWFkzMRwZxKpppZyMn-253" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;strokeColor=#100f0f;fontColor=#182E3E;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-249">
+          <mxGeometry y="120" width="159" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BQAWFkzMRwZxKpppZyMn-254" value="FK" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=D2Coding;labelBackgroundColor=none;rounded=0;fontSource=https%3A%2F%2Ffastly.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_three%401.0%2FD2Coding.woff;fontSize=12;" vertex="1" parent="BQAWFkzMRwZxKpppZyMn-253">
           <mxGeometry width="30" height="30" as="geometry">
